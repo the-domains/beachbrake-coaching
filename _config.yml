@@ -1,0 +1,28 @@
+name: BeachBrake Coaching
+favicon: null
+layout_spectrum: 0.8318775978405029
+typography_spectrum: 0.7779520214535296
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.5084203481674194
+  lightness: 0.34885041252709925
+  saturation: 0.6126846431288868
+  rhythmicContrast: 0.432598733343184
+purpose: []
