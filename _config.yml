@@ -1,6 +1,6 @@
 name: BeachBrake Coaching
 favicon: null
-layout_spectrum: 0.14458
+layout_spectrum: 0.24624
 typography_spectrum: 0.69397
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#bb9158'
     - '#010206'
     - '#005575'
-  brandStrength: 0.5084203481674194
+  brandStrength: 0.5
   lightness: 0.34885041252709925
-  saturation: 0.6126846431288868
+  saturation: 0.625
   rhythmicContrast: 0.432598733343184
 purpose: []
