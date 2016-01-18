@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:52:50.386Z'
+datePublished: '2016-01-18T20:52:50.441Z'
 dateModified: '2016-01-18T20:52:40.437Z'
 title: "Mariette's story..."
 author: []
