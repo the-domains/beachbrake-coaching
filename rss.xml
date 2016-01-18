@@ -2,14 +2,33 @@
     <channel>
         <title><![CDATA[BeachBrake Coaching]]></title>
         <description><![CDATA[BeachBrake Coaching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/beachbrake-coaching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 20:24:40 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 18 Jan 2016 20:34:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/beachbrake-coaching/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Welcome!]]></title>
+            <description><![CDATA[<article><h1>Welcome!</h1><p>Do you often wonder what is blocking you from experiencing joy and 
+fulfillment? Are you still trying to figure out what you’re meant to do 
+in your life?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8bcd00b7e1cdeb463b9fbb3996fbffdf5103b5bb.jpg"></article>]]></description>
+            <link>https://thegrid.ai/beachbrake-coaching/welcome/index.html</link>
+            <guid isPermaLink="false">73d922e0-cffe-4e59-9234-edca171de003</guid>
+            <pubDate>Mon, 18 Jan 2016 20:34:44 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why coaching works...]]></title>
+            <description><![CDATA[<article><h1>Why coaching works...</h1><p>You’re probably interested in coaching because you’ve found 
+yourself at a crossroads of some kind – either by choice or by 
+circumstance – which is leading to a desire to change. Or maybe you are 
+just dissatisfied with your life and are looking for a new approach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7f682aa8ec04b1aa4cc8b9cc2d1ae3b76685f0e.jpg"></article>]]></description>
+            <link>https://thegrid.ai/beachbrake-coaching/why-coaching-works/index.html</link>
+            <guid isPermaLink="false">8f72c8dd-94a9-4bf5-a631-31bd8eb8e209</guid>
+            <pubDate>Mon, 18 Jan 2016 20:34:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mariette's story...]]></title>
             <description><![CDATA[<article><h1></h1><p>Mariette's Story...</p></article>]]></description>
-            <link>undefinedmariettes-story/index.html</link>
+            <link>https://thegrid.ai/beachbrake-coaching/mariettes-story/index.html</link>
             <guid isPermaLink="false">0a7a2664-c86a-452b-8829-4390a9d83f24</guid>
             <pubDate>Mon, 18 Jan 2016 20:24:17 GMT</pubDate>
         </item>
