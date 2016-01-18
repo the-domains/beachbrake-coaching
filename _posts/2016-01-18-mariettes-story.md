@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:24:17.539Z'
-dateModified: '2016-01-18T20:23:01.469Z'
+datePublished: '2016-01-18T20:36:19.417Z'
+dateModified: '2016-01-18T20:30:55.876Z'
 title: "Mariette's story..."
 author: []
+sourcePath: _posts/2016-01-18-mariettes-story.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-mariettes-story.md
-published: true
 url: mariettes-story/index.html
 _type: Article
 
