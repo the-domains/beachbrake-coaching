@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T01:35:41.211Z'
-dateModified: '2016-01-19T01:35:31.114Z'
+datePublished: '2016-01-19T03:12:03.108Z'
+dateModified: '2016-01-19T03:11:58.995Z'
 title: Why coaching works...
 author: []
 sourcePath: _posts/2016-01-18-why-coaching-works.md
@@ -22,7 +22,7 @@ url: why-coaching-works/index.html
 _type: WebPage
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881f5aea-6a2d-4e91-8bed-c98a3ef7204b.jpg)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/09417300-a4da-4cbe-973a-4a8a59e5a440.jpg)
 
 You're probably interested in coaching because you've found 
 yourself at a crossroads of some kind -- either by choice or by 
