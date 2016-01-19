@@ -1,14 +1,14 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:52:50.441Z'
-dateModified: '2016-01-18T20:52:40.437Z'
-title: "Mariette's story..."
+datePublished: '2016-01-19T02:57:50.875Z'
+dateModified: '2016-01-19T02:57:42.866Z'
+title: ''
 author: []
 sourcePath: _posts/2016-01-18-mariettes-story.md
 published: true
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: mariettes-story/index.html
-_type: Article
+_type: WebPage
 
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c203818a-47d0-496d-97e2-85a563e136b5.jpg)
