@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Where you put the brakes on so you can redefine moving forward in your life and your relationships.
-datePublished: '2016-01-19T01:15:12.233Z'
-dateModified: '2016-01-19T01:15:04.268Z'
+datePublished: '2016-01-19T01:18:21.137Z'
+dateModified: '2016-01-19T01:18:13.312Z'
 title: Beachbrake Coaching
 author: []
 sourcePath: _posts/2016-01-19-beachbrake-coaching.md
