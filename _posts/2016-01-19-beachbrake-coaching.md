@@ -2,12 +2,13 @@
 inFeed: true
 hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-19T01:44:34.870Z'
-dateModified: '2016-01-19T01:44:28.309Z'
+datePublished: '2016-01-19T03:22:18.834Z'
+dateModified: '2016-01-19T03:22:15.279Z'
 title: Beachbrake Coaching
 author: []
 sourcePath: _posts/2016-01-19-beachbrake-coaching.md
@@ -25,4 +26,4 @@ _type: Blurb
 
 # Beachbrake Coaching
 
-Where you put the brakes so you can stop and get clear before moving forward again in your life and your relationships.
+Where you put the brakes on so you can get clear before moving forward again in your life and your relationships.
