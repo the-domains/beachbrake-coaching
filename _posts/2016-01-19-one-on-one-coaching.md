@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T03:34:06.768Z'
-dateModified: '2016-01-19T03:33:51.460Z'
+datePublished: '2016-01-19T15:33:46.035Z'
+dateModified: '2016-01-19T15:33:19.122Z'
 title: One-on-One Coaching
 author: []
 authors: []
@@ -28,13 +28,13 @@ _type: WebPage
 
 ## Transformational Change ~ Redefining YOU!
 
-I currently coach by skype from where ever you are
+I currently coach by Skype from where ever you are
 
 **My rates are:**$600 for 6 session  
 $120 per session (available only after the initial 6 week session)  
-Payment can be made by cash, etransfer or PayPal.
+Payment can be made by etransfer or PayPal in Canadian $.
 
-Not sure what to expect? Book in for a free consultation or follow me on[Facebook][0]to take advantage of free offerings.
+Not sure what to expect? Book in for a free consultation or follow me on [Facebook][0] to take advantage of free offerings.
 
 To set up an appointment or for a free consultation, please
 
@@ -62,7 +62,7 @@ This is for you if :
 
 ## Back on Track -- Individual Sessions:
 
-This option is for those of you who have gone through the program and learned how to create a life that is aligned with who you want to be, feels empowering and is moving in the direction you want to go. But....you are facing a roadblock or have realized you have taken a detour that has you stumped and you are needing that extra, outside perspective to get you back on track.
+This option is for those of you who have gone through the program and learned how to create a life that is aligned with who you want to be, feels empowering and is moving in the direction you want to go. But....you are facing a roadblock or have realized you have taken a detour that has you stumped you and you are needing that extra, outside support to get you back on track.
 
 **Where:**on Skype  
 **When:**as per availability  
