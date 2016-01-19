@@ -1,27 +1,29 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-18T20:34:43.322Z'
-dateModified: '2016-01-18T20:33:30.242Z'
+datePublished: '2016-01-19T01:35:41.211Z'
+dateModified: '2016-01-19T01:35:31.114Z'
 title: Why coaching works...
 author: []
+sourcePath: _posts/2016-01-18-why-coaching-works.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-why-coaching-works.md
-published: true
 url: why-coaching-works/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/881f5aea-6a2d-4e91-8bed-c98a3ef7204b.jpg)
+
 You're probably interested in coaching because you've found 
 yourself at a crossroads of some kind -- either by choice or by 
 circumstance -- which is leading to a desire to change. Or maybe you are 
@@ -53,7 +55,6 @@ obstacles.
 
 The best way to fully understand how coaching works and how you can 
 benefit from working with a coach is to try it out! Email me at [mariette@claimyourlife.ca][1] to set up a free session.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f658bcad-cf8c-4e73-83d5-008267128342.jpg)
 
 [0]: http://www.marthabeck.com/ "Martha Beck"
 [1]: mailto:mariette@claimyourlife.ca
