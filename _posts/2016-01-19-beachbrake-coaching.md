@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-20T14:32:43.578Z'
-dateModified: '2016-01-20T04:01:23.160Z'
+datePublished: '2016-01-25T19:31:20.947Z'
+dateModified: '2016-01-25T19:31:12.025Z'
 title: Beachbrake Coaching
 author: []
 sourcePath: _posts/2016-01-19-beachbrake-coaching.md
@@ -23,4 +23,4 @@ _type: Blurb
 ---
 # 
 
-# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e2b7fb7-9bf1-4313-bb27-280bf6a3f5bf.jpg)
+# ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/af677a28-dfea-4f3f-98a6-7999eac77004.jpg)
