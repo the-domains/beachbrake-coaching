@@ -1,23 +1,23 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/OYaOFn-RyRY'
-datePublished: '2016-01-18T22:58:51.868Z'
-dateModified: '2016-01-18T22:58:24.755Z'
+datePublished: '2016-01-25T20:22:43.380Z'
+dateModified: '2016-01-25T20:22:41.187Z'
 author: []
 title: Core of Peace Video
+sourcePath: _posts/2016-01-18-core-of-peace-video.md
+published: true
 authors: []
 publisher:
   name: youtube.com
   domain: www.youtube.com
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-core-of-peace-video.md
-published: true
 url: core-of-peace-video/index.html
 _context: 'http://schema.org'
 _type: Article
