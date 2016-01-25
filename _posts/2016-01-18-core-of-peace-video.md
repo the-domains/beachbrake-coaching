@@ -6,10 +6,10 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'https://youtu.be/OYaOFn-RyRY'
-datePublished: '2016-01-25T20:22:43.439Z'
-dateModified: '2016-01-25T20:22:41.187Z'
+datePublished: '2016-01-25T20:23:56.339Z'
+dateModified: '2016-01-25T20:23:52.823Z'
 author: []
-title: Core of Peace Video
+title: Videos
 sourcePath: _posts/2016-01-18-core-of-peace-video.md
 published: true
 authors: []
