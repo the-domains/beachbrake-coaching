@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T02:57:51.044Z'
-dateModified: '2016-01-19T02:57:42.866Z'
-title: ''
+datePublished: '2016-02-02T20:56:14.013Z'
+dateModified: '2016-01-19T03:06:39.701Z'
+title: "Mariette's Story..."
 author: []
 sourcePath: _posts/2016-01-18-mariettes-story.md
 published: true
@@ -24,7 +24,7 @@ _type: WebPage
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/c203818a-47d0-496d-97e2-85a563e136b5.jpg)
 
-Mariette's Story...
+# Mariette's Story...
 
 If you were a fly on my wall a few years ago, you would have seen me in my mid-thirties, having fun, making up songs, playing and being silly with my two young kids. You might have seen me as a wife enjoying a real and comfortable conversation with my husband. Or you might even have seen me with a good book in hand loving my time alone.
 
