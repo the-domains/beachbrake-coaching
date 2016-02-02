@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-19T15:33:46.035Z'
-dateModified: '2016-01-19T15:33:19.122Z'
+datePublished: '2016-02-02T20:54:22.515Z'
+dateModified: '2016-01-25T20:41:36.343Z'
 title: One-on-One Coaching
 author: []
+sourcePath: _posts/2016-01-19-one-on-one-coaching.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-19-one-on-one-coaching.md
-published: true
 url: one-on-one-coaching/index.html
 _type: WebPage
 
