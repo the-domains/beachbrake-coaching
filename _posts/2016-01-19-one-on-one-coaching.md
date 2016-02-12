@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-02T20:54:22.515Z'
-dateModified: '2016-01-25T20:41:36.343Z'
+datePublished: '2016-02-12T16:53:53.171Z'
+dateModified: '2016-02-12T16:53:48.696Z'
 title: One-on-One Coaching
 author: []
 sourcePath: _posts/2016-01-19-one-on-one-coaching.md
@@ -22,17 +22,17 @@ url: one-on-one-coaching/index.html
 _type: WebPage
 
 ---
-# 
-
 # One-on-One Coaching
 
-## Transformational Change ~ Redefining YOU!
+## Creating a rest stop where you can reconnect to YOU, how it looks to have you guide your new journey, what the signs on the way are telling you and how to have the most fun, peace and contentment on the way.
 
 I currently coach by Skype from where ever you are
 
-**My rates are:**$600 for 6 session  
-$120 per session (available only after the initial 6 week session)  
-Payment can be made by etransfer or PayPal in Canadian $.
+**My rates are:**
+
+$150 per session 
+
+Payment can be made by etransfer or PayPal in American $.
 
 Not sure what to expect? Book in for a free consultation or follow me on [Facebook][0] to take advantage of free offerings.
 
@@ -56,9 +56,9 @@ This is for you if :
 * you are ready to get honest, look inside and take control (in the right areas!) to create the life you want.
 * there is an area of your life that you are no longer willing to allow to continue as is -- you want to stop spinning your wheels and to claim the life you want.
 
-**Where:**on the phone/skype anywhere  
-**When:**six sessions decided together (dates to be set for all 6 sessions)  
-**Cost:**$600
+**Where:**on skype anywhere  
+**When: **six sessions decided together (dates to be set for all 6 sessions)  
+**Cost: **$600
 
 ## Back on Track -- Individual Sessions:
 
@@ -66,7 +66,7 @@ This option is for those of you who have gone through the program and learned ho
 
 **Where:**on Skype  
 **When:**as per availability  
-**Cost:**$120 per 1hr. session
+**Cost:**$100 per 1hr. session
 
 [0]: https://www.facebook.com/pages/claim-your-life-coaching/170426910042
 [1]: mailto:mariette@claimyourlife.ca
